@@ -10,7 +10,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.littlelemon.ui.components.LowerPanel
+import com.example.littlelemon.components.LowerPanel
 import com.example.littlelemon.components.UpperPanel
 import com.example.littlelemon.ui.theme.LittleLemonTheme
 
